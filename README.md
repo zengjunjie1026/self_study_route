@@ -10,7 +10,8 @@
 | 5 | [django后端](https://www.bilibili.com/video/BV1kX4y1P7iB)| 95p|即将进行中|无|
 | 6 | [app爬虫] (https://www.bilibili.com/video/BV1r541137i)| 150p|即将进行中|无|10月
 | 7 | [sql速成] (https://www.bilibili.com/video/BV1Kq4y1D79S)| 114p|即将进行中|无|10月
-
+| 8 | [nlp速成] (https://www.bilibili.com/video/BV17y4y1m737)| 114p|即将进行中|无|10月
+| 9 | [spark教程] (https://www.bilibili.com/video/BV11A411L7CK)| 114p|即将进行中|无|10月
 
 
 
