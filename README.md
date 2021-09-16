@@ -12,6 +12,7 @@
 | 7 | [sql速成](https://www.bilibili.com/video/BV1Kq4y1D79S)| 114p|即将进行中|无|10月
 | 8 | [nlp速成](https://www.bilibili.com/video/BV17y4y1m737)| 114p|即将进行中|无|10月
 | 9 | [spark教程](https://www.bilibili.com/video/BV11A411L7CK)| 114p|即将进行中|无|10月
+| 10 | [react全栈](https://www.bilibili.com/video/BV1i4411N7Qc)| 114p|即将进行中|无|10月
 
 
 
